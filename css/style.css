@@ -119,7 +119,7 @@ li a:hover{
 .card{
     background-color: var(--grey);
     min-height: 350px;
-    width: 350px;
+    width: 250px;
     margin: auto;
     border-radius: 5px;
     box-shadow: var(--shadow);
@@ -138,22 +138,23 @@ li a:hover{
 }
 
 .product1{
-    background: url(../img/Airmax-90.jpg);
+    background: url(../img/towelie_250.png);
     min-height: 250px;
+    min-width: 250px;
 }
 
 .product2{
-    background: url(../img/Ultraboost.jpg);
+    background: url(../img/jarritos_250.png);
     min-height: 250px;
 }
 
 .product3{
-    background: url(../img/Airmax-97.jpg);
+    background: url(../img/spiderman_250.png);
     min-height: 250px;
 }
 
 .product4{
-    background: url(../img/NMD-R1.jpg);
+    background: url(../img/yeezy_250.png);
     min-height: 250px;
 }
 
